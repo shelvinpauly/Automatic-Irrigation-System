@@ -21,13 +21,13 @@ A Blynk app provides remote monitoring and control over the system.
 
 ## Circuit Diagram
 
-![Circuit Diagram](circuit.png)
+![Circuit Diagram](Final_report.pdf)
 
 ## Code
 
 The NodeMCU code uses the Blynk library to connect to the app server. It reads the analog moisture value, maps it to a percentage, and controls the pump based on the threshold value.
 
-[Link to code](nodemcu/irrigation_code.ino)
+[Link to code](Final_report.pdf)
 
 ## Results
 
